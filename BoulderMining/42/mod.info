@@ -1,0 +1,5 @@
+name=BoulderMining
+id=BoulderMining
+description=Mine and pick up boulders using hammers, chisels, and pickaxes. Strength XP gain and level-based mining speed.
+category=Gameplay
+packVersion=0.1.0
